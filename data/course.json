@@ -1,0 +1,31 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Society",
+      "Asian Studies"
+    ],
+    [
+      "Fine Arts",
+      "Media Studies"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "632488c5-2392-898c-0f64-39004a4eab87"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Godzilla and the Bullet Train: Technology and Culture in Modern Japan",
+  "course_description": "This course explores how and why Japan, a late-comer to modernization, emerged as an industrial power and the world's second-richest nation, notwithstanding its recent difficulties. We are particularly concerned with the historical development of technology in Japan especially after 1945, giving particular attention to the interplays between business, ideology, technology, and culture. We will discuss key historical phenomena that symbolize modern Japan as a technological power in the world; specific examples to be discussed in class include _kamikaze_ aircraft, the _Shinkansen_ high-speed bullet train, Godzilla, and anime.\n",
+  "department_numbers": [
+    "STS"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "STS.S28",
+  "learning_resource_types": [
+    "Written Assignments with Examples",
+    "Activity Assignments"
+  ],
+  "title": "Course Metadata"
+}
